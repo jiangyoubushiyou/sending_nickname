@@ -1,4 +1,4 @@
-#不要在word中写程序，复制到IDE上会出错
-#expres版本问题
+#涓嶈鍦╳ord涓啓绋嬪簭锛屽鍒跺埌IDE涓婁細鍑洪敊
+#express鐗堟湰闂
 "express": "3.3.4",
 "socket.io":"0.9.16"
